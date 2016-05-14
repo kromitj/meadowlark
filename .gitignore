@@ -1,0 +1,2 @@
+# ignore packages installed by npm
+mode_modules
